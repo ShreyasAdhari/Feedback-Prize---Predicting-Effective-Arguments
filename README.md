@@ -28,6 +28,4 @@
 
 ## Inference
 
-- For testing model ensembling per fold use [ensemble_inference_oof.ipynb](https://github.com/akuritsyn/feedback-prize-2021/blob/main/nbs/ensemble_inference_oof.ipynb).
-
-- [This](https://www.kaggle.com/akuritsyn/feedback-model-ensemble) kaggle kernel was used for final submission.
+- [This](https://www.kaggle.com/code/shreyasadhari123/final-submission) kaggle kernel was used for final submission.
